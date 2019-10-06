@@ -1,16 +1,11 @@
-# Shazam4Food
+# Shazam For Food
 
-The Shazam app but it is for food
+The Shazam app but it's for food. More or less.
+An idea **shamelessly copied** from SeeFood, the Jian Yang app from TV series Silicon Valley S4E3, and [@imtoori](https://github.com/imtoori)'s project. 
 
-## Getting Started
+So, what I've done? I've just made it a little more *italian*.
 
-This project is a starting point for a Flutter application.
+This project is a mobile app developed with Flutter and FirebaseML.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<br>
+Made in a night :new_moon_with_face: by Alessandro Guggino
