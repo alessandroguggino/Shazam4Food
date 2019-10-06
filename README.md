@@ -9,6 +9,6 @@ So, what I've done? I've just made it a little more *italian*.
 This project is a mobile app developed with Flutter and FirebaseML.
 
 <br>
-![Gif](gif_jy.gif)
+![Gif](https://media.giphy.com/media/xUPGcrVoX4pdcf7oru/giphy.gif)
 <br>
 Made in a night :new_moon_with_face: by Alessandro Guggino
