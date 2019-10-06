@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534995595770",
+    "firebase_url": "https://shaz4food.firebaseio.com",
+    "project_id": "shaz4food",
+    "storage_bucket": "shaz4food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534995595770:android:ef109048cb575f32",
+        "android_client_info": {
+          "package_name": "it.alessandroguggino.shazam4food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534995595770-e96du3iq9telsjl8uoktkmrqta70h477.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdmZmcDZPGt0UoR-h3NJVVn2xZMTsOR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534995595770-e96du3iq9telsjl8uoktkmrqta70h477.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
