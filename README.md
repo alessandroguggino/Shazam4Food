@@ -9,7 +9,7 @@ So, what I've done? I've just made it a little more *italian*.
 This project is a mobile app developed with Flutter and FirebaseML.
 
 <br>
-![Gif](https://github.com/alessandroguggino/Shazam4Food/blob/master/gif_jy.gif)
+<img src="https://github.com/alessandroguggino/Shazam4Food/blob/master/gif_jy.gif" width="550" title="Silicon Valley GIF">
 <br>
 
 Made in a night :new_moon_with_face: by Alessandro Guggino
