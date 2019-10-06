@@ -4,7 +4,7 @@ The Shazam app but it's for food. More or less.
 <br>
 An idea **shamelessly copied** from SeeFood, the Jian Yang app from TV series Silicon Valley S4E3, and <a href="https://github.com/imtoori">@imtoori</a>'s project. 
 
-So, what I've done? I've just made it a little more *italian*.
+So, what have I done? I've just made it a little more *italian*.
 
 This project is a mobile app developed with Flutter and FirebaseML.
 
