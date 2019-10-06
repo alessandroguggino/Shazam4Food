@@ -2,7 +2,7 @@
 
 The Shazam app but it's for food. More or less.
 <br>
-An idea **shamelessly copied** from SeeFood, the Jian Yang app from TV series Silicon Valley S4E3, and <a href="https://github.com/imtoori" target="_blank">@imtoori</a>'s project. 
+An idea **shamelessly copied** from SeeFood, the Jian Yang app from TV series Silicon Valley S4E3, and [@imtoori](https://github.com/imtoori){:target="_blank" rel="noopener"}'s project. 
 
 So, what I've done? I've just made it a little more *italian*.
 
