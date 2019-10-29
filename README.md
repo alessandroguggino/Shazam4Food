@@ -1,5 +1,7 @@
 # Shazam For Food
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+
 The Shazam app but it's for food. More or less.
 <br>
 An idea **shamelessly copied** from SeeFood, the Jian Yang app from TV series Silicon Valley S4E3, and <a href="https://github.com/imtoori">@imtoori</a>'s project. 
